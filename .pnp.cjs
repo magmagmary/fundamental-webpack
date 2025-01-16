@@ -49,7 +49,7 @@ const RAW_RUNTIME_STATE =
           ["gh-pages", "npm:6.3.0"],\
           ["html-webpack-plugin", "virtual:46043f39e53e8a0f301391269908e5a3adc5dfd577f05f536609b6e88166b12e07cfca935ac3a4156939ea6c5a4026515779d8bec5a80e7fe9bd9c43c30caa7e#npm:5.6.3"],\
           ["husky", "npm:9.1.7"],\
-          ["lint-staged", "npm:15.3.0"],\
+          ["lint-staged", "npm:15.4.0"],\
           ["mini-css-extract-plugin", "virtual:46043f39e53e8a0f301391269908e5a3adc5dfd577f05f536609b6e88166b12e07cfca935ac3a4156939ea6c5a4026515779d8bec5a80e7fe9bd9c43c30caa7e#npm:2.9.2"],\
           ["postcss", "npm:8.4.49"],\
           ["postcss-loader", "virtual:46043f39e53e8a0f301391269908e5a3adc5dfd577f05f536609b6e88166b12e07cfca935ac3a4156939ea6c5a4026515779d8bec5a80e7fe9bd9c43c30caa7e#npm:8.1.1"],\
@@ -4843,10 +4843,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["virtual:6f87eff2f1dfc7363da5b0cbb17c2c347525a1eae4b0c21808f0bd21b40c885f339f38eabc62de6d4460721aa35cfd480922287c7f11e3a1f01aca989082ec26#npm:4.4.0", {\
-        "packageLocation": "./.yarn/__virtual__/debug-virtual-98ee9b8f96/0/cache/debug-npm-4.4.0-f6efe76023-db94f1a182.zip/node_modules/debug/",\
+      ["virtual:9a16069976d36c9af7a4f77833e8fbf03f7829cee8ff3a739c1b0ba2558f54a14eb45969b63cedae8551e599b6c686421e5058495d194ef5a1c491c00f8d01ee#npm:4.4.0", {\
+        "packageLocation": "./.yarn/__virtual__/debug-virtual-4ce2ddf594/0/cache/debug-npm-4.4.0-f6efe76023-db94f1a182.zip/node_modules/debug/",\
         "packageDependencies": [\
-          ["debug", "virtual:6f87eff2f1dfc7363da5b0cbb17c2c347525a1eae4b0c21808f0bd21b40c885f339f38eabc62de6d4460721aa35cfd480922287c7f11e3a1f01aca989082ec26#npm:4.4.0"],\
+          ["debug", "virtual:9a16069976d36c9af7a4f77833e8fbf03f7829cee8ff3a739c1b0ba2558f54a14eb45969b63cedae8551e599b6c686421e5058495d194ef5a1c491c00f8d01ee#npm:4.4.0"],\
           ["@types/supports-color", null],\
           ["ms", "npm:2.1.3"],\
           ["supports-color", null]\
@@ -6845,13 +6845,13 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["lint-staged", [\
-      ["npm:15.3.0", {\
-        "packageLocation": "./.yarn/cache/lint-staged-npm-15.3.0-6f87eff2f1-1ddf9488c5.zip/node_modules/lint-staged/",\
+      ["npm:15.4.0", {\
+        "packageLocation": "./.yarn/cache/lint-staged-npm-15.4.0-9a16069976-ada9a79a98.zip/node_modules/lint-staged/",\
         "packageDependencies": [\
-          ["lint-staged", "npm:15.3.0"],\
+          ["lint-staged", "npm:15.4.0"],\
           ["chalk", "npm:5.4.1"],\
           ["commander", "npm:12.1.0"],\
-          ["debug", "virtual:6f87eff2f1dfc7363da5b0cbb17c2c347525a1eae4b0c21808f0bd21b40c885f339f38eabc62de6d4460721aa35cfd480922287c7f11e3a1f01aca989082ec26#npm:4.4.0"],\
+          ["debug", "virtual:9a16069976d36c9af7a4f77833e8fbf03f7829cee8ff3a739c1b0ba2558f54a14eb45969b63cedae8551e599b6c686421e5058495d194ef5a1c491c00f8d01ee#npm:4.4.0"],\
           ["execa", "npm:8.0.1"],\
           ["lilconfig", "npm:3.1.3"],\
           ["listr2", "npm:8.2.5"],\
@@ -10772,7 +10772,7 @@ const RAW_RUNTIME_STATE =
           ["gh-pages", "npm:6.3.0"],\
           ["html-webpack-plugin", "virtual:46043f39e53e8a0f301391269908e5a3adc5dfd577f05f536609b6e88166b12e07cfca935ac3a4156939ea6c5a4026515779d8bec5a80e7fe9bd9c43c30caa7e#npm:5.6.3"],\
           ["husky", "npm:9.1.7"],\
-          ["lint-staged", "npm:15.3.0"],\
+          ["lint-staged", "npm:15.4.0"],\
           ["mini-css-extract-plugin", "virtual:46043f39e53e8a0f301391269908e5a3adc5dfd577f05f536609b6e88166b12e07cfca935ac3a4156939ea6c5a4026515779d8bec5a80e7fe9bd9c43c30caa7e#npm:2.9.2"],\
           ["postcss", "npm:8.4.49"],\
           ["postcss-loader", "virtual:46043f39e53e8a0f301391269908e5a3adc5dfd577f05f536609b6e88166b12e07cfca935ac3a4156939ea6c5a4026515779d8bec5a80e7fe9bd9c43c30caa7e#npm:8.1.1"],\
